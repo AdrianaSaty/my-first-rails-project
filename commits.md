@@ -8,3 +8,5 @@ https://www.youtube.com/watch?v=fmyvWz5TUWg&ab_channel=freeCodeCamp.org
 creates a new rails project using script <i>rails new friends</i>
 
 - `feat: generate controller home index`: creates a controller named <b>home</b> with an action <b>index</b> and its corresponding views using script <i>rails generate controller home index</i>
+
+- `feat: make home as home page`: now we can't access <i>/home/index</i> anymore, it throws an error, but our home shows now at home page
