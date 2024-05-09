@@ -12,3 +12,5 @@ creates a new rails project using script <i>rails new friends</i>
 - `feat: make home as home page`: now we can't access <i>/home/index</i> anymore, it throws an error, but our home shows now at home page
 
 - `feat: generate about page`: creates this new route manually 
+
+- `feat:implements bootstrap at 'application.html.erb'`
