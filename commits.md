@@ -14,3 +14,6 @@ creates a new rails project using script <i>rails new friends</i>
 - `feat: generate about page`: creates this new route manually 
 
 - `feat:implements bootstrap at 'application.html.erb'`
+
+- `feat: creates a header with bootstrap`: creates a file names <i>_header.html.erb</i>, that will be a partial showed in all the pages. Copied template from [bootstrap navbar](https://getbootstrap.com/docs/4.5/components/navbar/)
+
