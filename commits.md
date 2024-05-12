@@ -17,3 +17,4 @@ creates a new rails project using script <i>rails new friends</i>
 
 - `feat: creates a header with bootstrap`: creates a file names <i>_header.html.erb</i>, that will be a partial showed in all the pages. Copied template from [bootstrap navbar](https://getbootstrap.com/docs/4.5/components/navbar/)
 
+- `feat: creates about and home links at header`: to show all available routes you can use <i>rails routes</i> in terminal
