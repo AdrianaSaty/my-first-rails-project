@@ -20,3 +20,6 @@ creates a new rails project using script <i>rails new friends</i>
 - `feat: creates about and home links at header`: to show all available routes you can use <i>rails routes</i> in terminal
 
 - `feat: rails generate scaffold friends...`: <i>rails generate scaffold your_resource</i> automatically generates all the necessary files to create a CRUD for the specified resource. At this commit I used <i>rails generate scaffold friends first_name:string last_name:string email:string phone:string</i>
+
+- `feat: rails db:migrate`: apply pending migrations to the databas with <i>rails db:migrate</i> 
+
