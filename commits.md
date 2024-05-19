@@ -34,3 +34,5 @@ creates a new rails project using script <i>rails new friends</i>
 - `feat: rails db:migrate`: After the creation of 'user' model, you need to run  <i>rails db:migrate</i> to push the new migrations to the database.
 
 - `feat: adds auth routes to navbar`
+
+- `fix: sign out route error`
