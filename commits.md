@@ -36,3 +36,5 @@ creates a new rails project using script <i>rails new friends</i>
 - `feat: adds auth routes to navbar`
 
 - `fix: sign out route error`
+
+- `feat: changes what appers at nav bar if user is signed or not`
