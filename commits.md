@@ -32,3 +32,5 @@ creates a new rails project using script <i>rails new friends</i>
 - `feat: creates 'user' model`: used <i>rails generate devise user</i>. It creates a 'model' user and configure it with the default Devise modules. The generator also configures your config/routes.rb file to point to the Devise controller.
 
 - `feat: rails db:migrate`: After the creation of 'user' model, you need to run  <i>rails db:migrate</i> to push the new migrations to the database.
+
+- `feat: adds auth routes to navbar`
