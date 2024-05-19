@@ -24,3 +24,5 @@ creates a new rails project using script <i>rails new friends</i>
 - `feat: rails db:migrate`: apply pending migrations to the databas with <i>rails db:migrate</i> 
 
 - `feat: include friends and new friends route at navbar`
+
+- `chore: installs devise lib`: devise is an authentication solution for rails with warden. Following [Getting Started Devise Documentation](https://github.com/heartcombo/devise?tab=readme-ov-file#getting-started)
